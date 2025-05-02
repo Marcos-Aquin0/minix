@@ -6,8 +6,7 @@ For more information on how to use MINIX 3, see the wiki:
 https://wiki.minix3.org
 
 We'd like your feedback: https://minix3.org/community/
-
-printf("=================================================\n");
-printf("| OBRIGADO POR ESTAR AQUI - SO - UNIFESP 1s2025 |\n");
-printf("|        Projeto Pratico (I) - Equipe 2         |\n");
-printf("=================================================\n");
+=================================================
+| OBRIGADO POR ESTAR AQUI - SO - UNIFESP 1s2025 |
+|        Projeto Pratico (I) - Equipe 2         |
+=================================================
