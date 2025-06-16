@@ -14,7 +14,7 @@ OUTPUT_FILE ?= resultados_01.txt
 all: $(EXECUTABLE)
 
 $(EXECUTABLE): teste_processos.c
-        cc -o $(EXECUTABLE) teste_processos.c
+	cc -o $(EXECUTABLE) teste_processos.c
 
 run: $(EXECUTABLE)
 	./$(EXECUTABLE) $(NUM_ITERATIONS) $(ARG2) $(ARG3) > $(OUTPUT_FILE)
