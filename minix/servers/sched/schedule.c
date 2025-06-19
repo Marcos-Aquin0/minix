@@ -312,7 +312,7 @@
 		 new_prio = -1;
  
  
-	 int new_quantum = 0x7FFFFFFF; //QUANTUM MAX
+	 new_quantum = 0x7FFFFFFF; //QUANTUM MAX
 	 /*if (flags & SCHEDULE_CHANGE_QUANTUM)
 		 new_quantum = rmp->time_slice;
 	 else
