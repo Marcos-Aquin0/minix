@@ -1,0 +1,4 @@
+banner 1 e 3 = minix/kernel/main.c
+banner 2 = etc/motd
+execução = minix/servers/vfs/exec.c
+escalonamento = minix/servers/sched/schedule.c

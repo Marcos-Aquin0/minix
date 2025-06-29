@@ -1,0 +1,4 @@
+RAM: 8gb
+Modelo: Inspiron 5468
+Tipo: X64
+Processador: Intel Core i3-6006U CPU @ 2.00GHz, 2000MHz, 2 Núcleos, 4 Processadores

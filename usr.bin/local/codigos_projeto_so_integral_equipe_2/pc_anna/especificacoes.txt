@@ -1,0 +1,4 @@
+RAM: 8gb
+Modelo: 550XED
+Tipo: X64
+Processador: Intel Core 12th Gen i5-1235U 1300 MHz, 10 Núcleos, 12 Processadores
